@@ -1,11 +1,16 @@
 _repo: Letters-and-Discussions-on-the-Formation-of-Colored-Regiments-and-the-Duty-of-the-Colored-Peo__58398
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58398-h/images/cover.jpg
 creator:
   author:
     agent_name: Green, Alfred M.
     gutenberg_agent_id: '49930'
     url: http://www.gutenberg.org/2009/agents/49930
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58398#Letters-and-Discussions-on-the-Formation-of-Colored-Regiments-and-the-Duty-of-the-Colored-Peo_
 gutenberg_issued: '2018-12-02'
 gutenberg_type: Text
 identifiers:
